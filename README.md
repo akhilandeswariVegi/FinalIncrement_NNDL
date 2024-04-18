@@ -13,3 +13,7 @@ GENETIC BASED DISEASE IDENTIFICATION WITH DEEP LEARNING ON NEURAL NETWORKS
                                                                   dept.Computer Science 
                                                                 University of Central Missouri 
                                                                     sxk78670@ucmo.edu
+
+
+
+                                                                    PPT Link: https://docs.google.com/presentation/d/1mGNOyIzYuERKTr889jjNZPgxWfPUaGP-/edit?usp=sharing&ouid=118401551491162878959&rtpof=true&sd=true
